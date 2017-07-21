@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d4744eb184cd3f948a4661e88bd3266a
+timeCreated: 1495173566
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HoloLens MDL2 Symbols
+  fontNames:
+  - HoloLens MDL2 Symbols
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
