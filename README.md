@@ -1,2 +1,5 @@
 # MR_Education
-Hachathon Shizz
+
+Prototype Submission of team "MR_Robot" for the "#UNITEDBYHCL Hackathon".
+
+Project Name : "EtherMR"
