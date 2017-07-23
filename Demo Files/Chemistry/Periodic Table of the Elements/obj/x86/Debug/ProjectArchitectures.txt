@@ -1,0 +1,4 @@
+C:\Users\Saurabh Ravindranath\Desktop\Periodic Table\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Saurabh Ravindranath\Desktop\Periodic Table\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Saurabh Ravindranath\Desktop\Periodic Table\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Saurabh Ravindranath\Desktop\Periodic Table\Periodic Table of the Elements\Periodic Table of the Elements.csproj;x86
